@@ -21,9 +21,3 @@ It reads an image, converts it to grayscale, and uses the Sobel filter to extrac
 - NumPy
 - Matplotlib
 
-## 📂 Input
-Image path: `Eimage.jpeg` *(make sure it’s in the same directory or update the path)*
-
-## 🚀 How to Run
-```bash
-pip install opencv-python matplotlib
